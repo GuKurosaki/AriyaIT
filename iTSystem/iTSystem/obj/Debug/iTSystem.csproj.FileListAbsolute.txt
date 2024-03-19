@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\iTSystem\iTSystem\bin\Debug\iTSystem.exe.config
+C:\Users\Administrator\source\repos\iTSystem\iTSystem\bin\Debug\iTSystem.exe
+C:\Users\Administrator\source\repos\iTSystem\iTSystem\bin\Debug\iTSystem.pdb
+C:\Users\Administrator\source\repos\iTSystem\iTSystem\obj\Debug\iTSystem.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\iTSystem\iTSystem\obj\Debug\iTSystem.Form1.resources
+C:\Users\Administrator\source\repos\iTSystem\iTSystem\obj\Debug\iTSystem.Properties.Resources.resources
+C:\Users\Administrator\source\repos\iTSystem\iTSystem\obj\Debug\iTSystem.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\iTSystem\iTSystem\obj\Debug\iTSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\iTSystem\iTSystem\obj\Debug\iTSystem.exe
+C:\Users\Administrator\source\repos\iTSystem\iTSystem\obj\Debug\iTSystem.pdb

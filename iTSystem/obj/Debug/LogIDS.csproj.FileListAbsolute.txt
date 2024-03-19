@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\LogIDS\obj\Debug\LogIDS.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LogIDS\obj\Debug\LogIDS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LogIDS\bin\iTSystem.dll.config
+C:\Users\Administrator\source\repos\LogIDS\bin\iTSystem.dll
+C:\Users\Administrator\source\repos\LogIDS\bin\iTSystem.pdb
+C:\Users\Administrator\source\repos\LogIDS\obj\Debug\iTSystem.dll
+C:\Users\Administrator\source\repos\LogIDS\obj\Debug\iTSystem.pdb
